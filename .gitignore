@@ -130,4 +130,4 @@ dist
 .pnp.*
 
 #FirebaseKey
-firebaseAccountKeys
+firebaseAccountKeys.json
