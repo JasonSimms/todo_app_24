@@ -131,3 +131,6 @@ dist
 
 #FirebaseKey
 firebaseAccountKeys.json
+
+#Typescript
+/dist

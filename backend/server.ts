@@ -1,6 +1,6 @@
-const { Firestore } = require('@google-cloud/firestore');
-const express = require('express');
-const dotenv = require('dotenv');
+import { Firestore } from '@google-cloud/firestore';
+import express = require('express');
+import dotenv = require('dotenv');
 
 dotenv.config();
 
